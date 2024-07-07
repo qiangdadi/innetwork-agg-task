@@ -1,0 +1,2015 @@
+[32mWaf: Entering directory `/home/hxq/ns-allinone-3.33/ns-3.33/build'[0m
+[32mWaf: Leaving directory `/home/hxq/ns-allinone-3.33/ns-3.33/build'[0m
+[32mBuild commands will be stored in build/compile_commands.json[0m
+[32m'build' finished successfully (0.997s)[0m
+
+
+#################### SIMULATION SET-UP ####################
+
+
+/home/hxq/quiche/
+[SimpleMPI:AVG] start a new request at time 3 count = 0 maxIteration = 1000
+one AVG operation time elapsed : 3300ms
+[SimpleMPI:AVG] start a new request at time 6.3 count = 1 maxIteration = 1000
+one AVG operation time elapsed : 2820ms
+[SimpleMPI:AVG] start a new request at time 9.12 count = 2 maxIteration = 1000
+one AVG operation time elapsed : 2760ms
+[SimpleMPI:AVG] start a new request at time 11.88 count = 3 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 14.46 count = 4 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 17.04 count = 5 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 19.62 count = 6 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 22.2 count = 7 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 24.78 count = 8 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 27.36 count = 9 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 29.94 count = 10 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 32.52 count = 11 maxIteration = 1000
+one AVG operation time elapsed : 2670ms
+[SimpleMPI:AVG] start a new request at time 35.19 count = 12 maxIteration = 1000
+one AVG operation time elapsed : 2790ms
+[SimpleMPI:AVG] start a new request at time 37.98 count = 13 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 40.56 count = 14 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 43.14 count = 15 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 45.72 count = 16 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 48.3 count = 17 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 50.88 count = 18 maxIteration = 1000
+one AVG operation time elapsed : 2610ms
+[SimpleMPI:AVG] start a new request at time 53.49 count = 19 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 56.04 count = 20 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 58.62 count = 21 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 61.2 count = 22 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 63.78 count = 23 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 66.36 count = 24 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 68.94 count = 25 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 71.52 count = 26 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 74.1 count = 27 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 76.68 count = 28 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 79.26 count = 29 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 81.84 count = 30 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 84.42 count = 31 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 87 count = 32 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 89.58 count = 33 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 92.16 count = 34 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 94.74 count = 35 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 97.32 count = 36 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 99.9 count = 37 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 102.48 count = 38 maxIteration = 1000
+one AVG operation time elapsed : 2610ms
+[SimpleMPI:AVG] start a new request at time 105.09 count = 39 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 107.67 count = 40 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 110.25 count = 41 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 112.83 count = 42 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 115.41 count = 43 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 117.99 count = 44 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 120.57 count = 45 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 123.15 count = 46 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 125.73 count = 47 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 128.31 count = 48 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 130.89 count = 49 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 133.47 count = 50 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 136.05 count = 51 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 138.63 count = 52 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 141.21 count = 53 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 143.79 count = 54 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 146.37 count = 55 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 148.95 count = 56 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 151.53 count = 57 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 154.11 count = 58 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 156.69 count = 59 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 159.27 count = 60 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 161.85 count = 61 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 164.43 count = 62 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 167.01 count = 63 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 169.59 count = 64 maxIteration = 1000
+one AVG operation time elapsed : 2700ms
+[SimpleMPI:AVG] start a new request at time 172.29 count = 65 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 174.84 count = 66 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 177.42 count = 67 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 180 count = 68 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 182.58 count = 69 maxIteration = 1000
+one AVG operation time elapsed : 2670ms
+[SimpleMPI:AVG] start a new request at time 185.25 count = 70 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 187.83 count = 71 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 190.38 count = 72 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 192.96 count = 73 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 195.51 count = 74 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 198.06 count = 75 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 200.61 count = 76 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 203.16 count = 77 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 205.71 count = 78 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 208.29 count = 79 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 210.84 count = 80 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 213.42 count = 81 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 215.97 count = 82 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 218.55 count = 83 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 221.1 count = 84 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 223.68 count = 85 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 226.23 count = 86 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 228.78 count = 87 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 231.36 count = 88 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 233.91 count = 89 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 236.46 count = 90 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 239.01 count = 91 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 241.59 count = 92 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 244.14 count = 93 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 246.72 count = 94 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 249.27 count = 95 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 251.85 count = 96 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 254.4 count = 97 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 256.98 count = 98 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 259.53 count = 99 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 262.11 count = 100 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 264.66 count = 101 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 267.24 count = 102 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 269.79 count = 103 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 272.37 count = 104 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 274.92 count = 105 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 277.5 count = 106 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 280.05 count = 107 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 282.63 count = 108 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 285.18 count = 109 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 287.76 count = 110 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 290.31 count = 111 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 292.89 count = 112 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 295.44 count = 113 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 298.02 count = 114 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 300.57 count = 115 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 303.15 count = 116 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 305.7 count = 117 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 308.28 count = 118 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 310.83 count = 119 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 313.41 count = 120 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 315.96 count = 121 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 318.51 count = 122 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 321.09 count = 123 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 323.64 count = 124 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 326.19 count = 125 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 328.74 count = 126 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 331.32 count = 127 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 333.87 count = 128 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 336.45 count = 129 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 339 count = 130 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 341.58 count = 131 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 344.13 count = 132 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 346.71 count = 133 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 349.26 count = 134 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 351.81 count = 135 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 354.39 count = 136 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 356.94 count = 137 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 359.52 count = 138 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 362.07 count = 139 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 364.62 count = 140 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 367.17 count = 141 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 369.75 count = 142 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 372.3 count = 143 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 374.88 count = 144 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 377.43 count = 145 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 380.01 count = 146 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 382.56 count = 147 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 385.14 count = 148 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 387.69 count = 149 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 390.24 count = 150 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 392.82 count = 151 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 395.37 count = 152 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 397.92 count = 153 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 400.47 count = 154 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 403.05 count = 155 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 405.6 count = 156 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 408.18 count = 157 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 410.73 count = 158 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 413.31 count = 159 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 415.86 count = 160 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 418.44 count = 161 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 420.99 count = 162 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 423.57 count = 163 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 426.12 count = 164 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 428.7 count = 165 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 431.25 count = 166 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 433.83 count = 167 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 436.38 count = 168 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 438.96 count = 169 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 441.51 count = 170 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 444.09 count = 171 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 446.64 count = 172 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 449.19 count = 173 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 451.74 count = 174 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 454.32 count = 175 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 456.9 count = 176 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 459.45 count = 177 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 462.03 count = 178 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 464.58 count = 179 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 467.16 count = 180 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 469.71 count = 181 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 472.26 count = 182 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 474.81 count = 183 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 477.39 count = 184 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 479.94 count = 185 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 482.52 count = 186 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 485.07 count = 187 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 487.65 count = 188 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 490.2 count = 189 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 492.75 count = 190 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 495.33 count = 191 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 497.88 count = 192 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 500.43 count = 193 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 502.98 count = 194 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 505.56 count = 195 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 508.11 count = 196 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 510.69 count = 197 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 513.24 count = 198 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 515.82 count = 199 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 518.37 count = 200 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 520.95 count = 201 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 523.5 count = 202 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 526.08 count = 203 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 528.63 count = 204 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 531.21 count = 205 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 533.76 count = 206 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 536.31 count = 207 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 538.86 count = 208 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 541.44 count = 209 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 543.99 count = 210 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 546.57 count = 211 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 549.12 count = 212 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 551.7 count = 213 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 554.25 count = 214 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 556.83 count = 215 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 559.38 count = 216 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 561.93 count = 217 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 564.51 count = 218 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 567.06 count = 219 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 569.61 count = 220 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 572.16 count = 221 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 574.74 count = 222 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 577.29 count = 223 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 579.87 count = 224 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 582.42 count = 225 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 585 count = 226 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 587.55 count = 227 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 590.13 count = 228 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 592.68 count = 229 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 595.26 count = 230 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 597.81 count = 231 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 600.39 count = 232 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 602.94 count = 233 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 605.49 count = 234 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 608.04 count = 235 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 610.62 count = 236 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 613.17 count = 237 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 615.75 count = 238 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 618.3 count = 239 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 620.88 count = 240 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 623.43 count = 241 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 626.01 count = 242 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 628.56 count = 243 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 631.14 count = 244 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 633.69 count = 245 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 636.27 count = 246 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 638.82 count = 247 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 641.4 count = 248 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 643.95 count = 249 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 646.5 count = 250 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 649.08 count = 251 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 651.63 count = 252 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 654.21 count = 253 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 656.76 count = 254 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 659.34 count = 255 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 661.89 count = 256 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 664.47 count = 257 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 667.02 count = 258 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 669.57 count = 259 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 672.15 count = 260 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 674.7 count = 261 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 677.28 count = 262 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 679.83 count = 263 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 682.41 count = 264 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 684.96 count = 265 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 687.54 count = 266 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 690.09 count = 267 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 692.64 count = 268 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 695.22 count = 269 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 697.77 count = 270 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 700.35 count = 271 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 702.9 count = 272 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 705.45 count = 273 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 708.03 count = 274 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 710.58 count = 275 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 713.16 count = 276 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 715.71 count = 277 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 718.26 count = 278 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 720.84 count = 279 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 723.39 count = 280 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 725.94 count = 281 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 728.49 count = 282 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 731.07 count = 283 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 733.62 count = 284 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 736.2 count = 285 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 738.75 count = 286 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 741.33 count = 287 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 743.88 count = 288 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 746.46 count = 289 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 749.01 count = 290 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 751.56 count = 291 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 754.14 count = 292 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 756.69 count = 293 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 759.27 count = 294 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 761.82 count = 295 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 764.4 count = 296 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 766.95 count = 297 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 769.53 count = 298 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 772.08 count = 299 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 774.63 count = 300 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 777.18 count = 301 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 779.73 count = 302 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 782.31 count = 303 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 784.86 count = 304 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 787.41 count = 305 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 789.96 count = 306 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 792.51 count = 307 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 795.09 count = 308 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 797.64 count = 309 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 800.19 count = 310 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 802.77 count = 311 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 805.32 count = 312 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 807.9 count = 313 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 810.45 count = 314 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 813.03 count = 315 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 815.58 count = 316 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 818.13 count = 317 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 820.71 count = 318 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 823.26 count = 319 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 825.84 count = 320 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 828.39 count = 321 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 830.94 count = 322 maxIteration = 1000
+one AVG operation time elapsed : 2610ms
+[SimpleMPI:AVG] start a new request at time 833.55 count = 323 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 836.1 count = 324 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 838.65 count = 325 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 841.2 count = 326 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 843.78 count = 327 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 846.33 count = 328 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 848.88 count = 329 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 851.46 count = 330 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 854.01 count = 331 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 856.59 count = 332 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 859.14 count = 333 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 861.72 count = 334 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 864.27 count = 335 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 866.85 count = 336 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 869.4 count = 337 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 871.95 count = 338 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 874.53 count = 339 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 877.08 count = 340 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 879.66 count = 341 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 882.24 count = 342 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 884.79 count = 343 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 887.37 count = 344 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 889.92 count = 345 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 892.5 count = 346 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 895.08 count = 347 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 897.63 count = 348 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 900.21 count = 349 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 902.76 count = 350 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 905.34 count = 351 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 907.86 count = 352 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 910.44 count = 353 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 912.99 count = 354 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 915.54 count = 355 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 918.12 count = 356 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 920.67 count = 357 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 923.25 count = 358 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 925.8 count = 359 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 928.38 count = 360 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 930.96 count = 361 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 933.51 count = 362 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 936.09 count = 363 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 938.64 count = 364 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 941.22 count = 365 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 943.74 count = 366 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 946.32 count = 367 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 948.87 count = 368 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 951.42 count = 369 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 954 count = 370 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 956.55 count = 371 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 959.13 count = 372 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 961.71 count = 373 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 964.26 count = 374 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 966.84 count = 375 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 969.39 count = 376 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 971.97 count = 377 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 974.49 count = 378 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 977.07 count = 379 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 979.62 count = 380 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 982.2 count = 381 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 984.75 count = 382 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 987.3 count = 383 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 989.88 count = 384 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 992.43 count = 385 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 995.01 count = 386 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 997.56 count = 387 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1000.14 count = 388 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1002.69 count = 389 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1005.27 count = 390 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1007.82 count = 391 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1010.4 count = 392 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1012.95 count = 393 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1015.5 count = 394 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1018.08 count = 395 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1020.63 count = 396 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1023.21 count = 397 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1025.76 count = 398 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1028.34 count = 399 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1030.89 count = 400 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1033.47 count = 401 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1036.02 count = 402 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1038.6 count = 403 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1041.15 count = 404 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1043.7 count = 405 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1046.28 count = 406 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1048.83 count = 407 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1051.41 count = 408 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1053.96 count = 409 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1056.54 count = 410 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1059.09 count = 411 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1061.67 count = 412 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1064.22 count = 413 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1066.8 count = 414 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1069.35 count = 415 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1071.9 count = 416 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1074.48 count = 417 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1077.03 count = 418 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1079.61 count = 419 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1082.16 count = 420 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1084.74 count = 421 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1087.29 count = 422 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1089.87 count = 423 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1092.42 count = 424 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1095 count = 425 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1097.55 count = 426 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1100.1 count = 427 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1102.68 count = 428 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1105.23 count = 429 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1107.81 count = 430 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1110.36 count = 431 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1112.94 count = 432 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1115.49 count = 433 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1118.07 count = 434 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1120.62 count = 435 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1123.2 count = 436 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1125.75 count = 437 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1128.3 count = 438 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1130.88 count = 439 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1133.43 count = 440 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1136.01 count = 441 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1138.56 count = 442 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1141.14 count = 443 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1143.69 count = 444 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1146.27 count = 445 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1148.82 count = 446 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1151.4 count = 447 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1153.95 count = 448 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1156.5 count = 449 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1159.08 count = 450 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1161.63 count = 451 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1164.21 count = 452 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1166.76 count = 453 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1169.34 count = 454 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1171.89 count = 455 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1174.47 count = 456 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1177.02 count = 457 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1179.6 count = 458 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1182.15 count = 459 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1184.7 count = 460 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1187.28 count = 461 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1189.83 count = 462 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1192.41 count = 463 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1194.96 count = 464 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1197.54 count = 465 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1200.09 count = 466 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1202.67 count = 467 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1205.22 count = 468 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1207.8 count = 469 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1210.35 count = 470 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1212.9 count = 471 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1215.48 count = 472 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1218.03 count = 473 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1220.61 count = 474 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1223.16 count = 475 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1225.74 count = 476 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1228.29 count = 477 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1230.87 count = 478 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1233.42 count = 479 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1236 count = 480 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1238.55 count = 481 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1241.1 count = 482 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1243.68 count = 483 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1246.23 count = 484 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1248.81 count = 485 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1251.36 count = 486 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1253.94 count = 487 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1256.49 count = 488 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1259.07 count = 489 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1261.62 count = 490 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1264.2 count = 491 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1266.75 count = 492 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1269.3 count = 493 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1271.88 count = 494 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1274.43 count = 495 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1277.01 count = 496 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1279.56 count = 497 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1282.14 count = 498 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1284.69 count = 499 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1287.27 count = 500 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1289.82 count = 501 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1292.4 count = 502 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1294.95 count = 503 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1297.5 count = 504 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1300.08 count = 505 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1302.63 count = 506 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1305.21 count = 507 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1307.76 count = 508 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1310.34 count = 509 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1312.89 count = 510 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1315.47 count = 511 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1318.02 count = 512 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1320.6 count = 513 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1323.15 count = 514 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1325.7 count = 515 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1328.28 count = 516 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1330.83 count = 517 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1333.41 count = 518 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1335.96 count = 519 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1338.54 count = 520 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1341.09 count = 521 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1343.67 count = 522 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1346.22 count = 523 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1348.8 count = 524 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1351.35 count = 525 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1353.9 count = 526 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1356.48 count = 527 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1359.03 count = 528 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1361.61 count = 529 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1364.16 count = 530 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1366.74 count = 531 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1369.29 count = 532 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1371.87 count = 533 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1374.42 count = 534 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1377 count = 535 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1379.55 count = 536 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1382.1 count = 537 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1384.68 count = 538 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1387.23 count = 539 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1389.81 count = 540 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1392.36 count = 541 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1394.94 count = 542 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1397.49 count = 543 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1400.07 count = 544 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1402.62 count = 545 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1405.2 count = 546 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1407.75 count = 547 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1410.3 count = 548 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1412.88 count = 549 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1415.43 count = 550 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1418.01 count = 551 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1420.56 count = 552 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1423.14 count = 553 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1425.69 count = 554 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1428.27 count = 555 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1430.82 count = 556 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1433.4 count = 557 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1435.95 count = 558 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1438.5 count = 559 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1441.08 count = 560 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1443.63 count = 561 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1446.21 count = 562 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1448.76 count = 563 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1451.34 count = 564 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1453.89 count = 565 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1456.47 count = 566 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1459.02 count = 567 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1461.6 count = 568 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1464.15 count = 569 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1466.7 count = 570 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1469.28 count = 571 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1471.83 count = 572 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1474.41 count = 573 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1476.96 count = 574 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1479.54 count = 575 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1482.09 count = 576 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1484.67 count = 577 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1487.22 count = 578 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1489.8 count = 579 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1492.35 count = 580 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1494.9 count = 581 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1497.48 count = 582 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1500.03 count = 583 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1502.61 count = 584 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1505.16 count = 585 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1507.74 count = 586 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1510.29 count = 587 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1512.87 count = 588 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1515.42 count = 589 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1518 count = 590 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1520.55 count = 591 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1523.1 count = 592 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1525.68 count = 593 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1528.23 count = 594 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1530.81 count = 595 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1533.36 count = 596 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1535.94 count = 597 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1538.49 count = 598 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1541.07 count = 599 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1543.62 count = 600 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1546.2 count = 601 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1548.75 count = 602 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1551.3 count = 603 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1553.88 count = 604 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1556.43 count = 605 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1559.01 count = 606 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1561.56 count = 607 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1564.14 count = 608 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1566.69 count = 609 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1569.27 count = 610 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1571.82 count = 611 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1574.4 count = 612 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1576.95 count = 613 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1579.5 count = 614 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1582.08 count = 615 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1584.63 count = 616 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1587.21 count = 617 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1589.76 count = 618 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1592.34 count = 619 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1594.89 count = 620 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1597.47 count = 621 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1600.02 count = 622 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1602.6 count = 623 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1605.15 count = 624 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1607.7 count = 625 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1610.28 count = 626 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1612.83 count = 627 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1615.41 count = 628 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1617.96 count = 629 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1620.54 count = 630 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1623.09 count = 631 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1625.67 count = 632 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1628.22 count = 633 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1630.8 count = 634 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1633.35 count = 635 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1635.9 count = 636 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1638.48 count = 637 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1641.03 count = 638 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1643.61 count = 639 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1646.16 count = 640 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1648.74 count = 641 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1651.29 count = 642 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1653.87 count = 643 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1656.42 count = 644 maxIteration = 1000
+one AVG operation time elapsed : 2640ms
+[SimpleMPI:AVG] start a new request at time 1659.06 count = 645 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1661.61 count = 646 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1664.19 count = 647 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1666.77 count = 648 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1669.32 count = 649 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1671.9 count = 650 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1674.45 count = 651 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1677.03 count = 652 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 1679.55 count = 653 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1682.13 count = 654 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 1684.65 count = 655 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1687.23 count = 656 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1689.78 count = 657 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1692.33 count = 658 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1694.91 count = 659 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1697.46 count = 660 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1700.04 count = 661 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1702.62 count = 662 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1705.17 count = 663 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1707.75 count = 664 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1710.3 count = 665 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1712.88 count = 666 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 1715.4 count = 667 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1717.98 count = 668 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1720.53 count = 669 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1723.11 count = 670 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1725.66 count = 671 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1728.21 count = 672 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1730.79 count = 673 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1733.34 count = 674 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1735.92 count = 675 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1738.5 count = 676 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1741.05 count = 677 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1743.63 count = 678 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1746.18 count = 679 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1748.76 count = 680 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1751.31 count = 681 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1753.89 count = 682 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1756.44 count = 683 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1759.02 count = 684 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1761.57 count = 685 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1764.12 count = 686 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1766.7 count = 687 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1769.25 count = 688 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1771.83 count = 689 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1774.41 count = 690 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1776.96 count = 691 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1779.54 count = 692 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1782.09 count = 693 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1784.67 count = 694 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1787.22 count = 695 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1789.8 count = 696 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1792.35 count = 697 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1794.93 count = 698 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1797.48 count = 699 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1800.03 count = 700 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1802.61 count = 701 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1805.16 count = 702 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1807.74 count = 703 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1810.29 count = 704 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1812.87 count = 705 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1815.42 count = 706 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1818 count = 707 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1820.55 count = 708 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1823.13 count = 709 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1825.68 count = 710 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1828.23 count = 711 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1830.81 count = 712 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1833.36 count = 713 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1835.94 count = 714 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1838.49 count = 715 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1841.07 count = 716 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1843.62 count = 717 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1846.2 count = 718 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1848.75 count = 719 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1851.33 count = 720 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1853.88 count = 721 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1856.43 count = 722 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1859.01 count = 723 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1861.56 count = 724 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1864.14 count = 725 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1866.69 count = 726 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1869.27 count = 727 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1871.82 count = 728 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1874.4 count = 729 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1876.95 count = 730 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1879.53 count = 731 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1882.08 count = 732 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1884.63 count = 733 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1887.21 count = 734 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1889.76 count = 735 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1892.34 count = 736 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1894.89 count = 737 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1897.47 count = 738 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1900.02 count = 739 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1902.6 count = 740 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1905.15 count = 741 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1907.73 count = 742 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1910.28 count = 743 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1912.83 count = 744 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1915.41 count = 745 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1917.96 count = 746 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1920.54 count = 747 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1923.09 count = 748 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1925.67 count = 749 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1928.22 count = 750 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1930.8 count = 751 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1933.35 count = 752 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1935.93 count = 753 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1938.48 count = 754 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1941.03 count = 755 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1943.61 count = 756 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1946.16 count = 757 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1948.74 count = 758 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1951.29 count = 759 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1953.87 count = 760 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1956.42 count = 761 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1959 count = 762 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1961.55 count = 763 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1964.13 count = 764 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1966.68 count = 765 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1969.23 count = 766 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1971.81 count = 767 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1974.36 count = 768 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1976.94 count = 769 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1979.49 count = 770 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1982.07 count = 771 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1984.62 count = 772 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1987.2 count = 773 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1989.75 count = 774 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 1992.33 count = 775 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1994.88 count = 776 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 1997.43 count = 777 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2000.01 count = 778 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2002.56 count = 779 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2005.14 count = 780 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2007.69 count = 781 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2010.27 count = 782 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2012.82 count = 783 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2015.4 count = 784 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2017.95 count = 785 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2020.53 count = 786 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2023.08 count = 787 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2025.63 count = 788 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2028.21 count = 789 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2030.76 count = 790 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2033.34 count = 791 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2035.89 count = 792 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2038.47 count = 793 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2041.02 count = 794 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2043.6 count = 795 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2046.15 count = 796 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2048.73 count = 797 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2051.28 count = 798 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2053.83 count = 799 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2056.41 count = 800 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2058.96 count = 801 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2061.54 count = 802 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2064.09 count = 803 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2066.67 count = 804 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2069.22 count = 805 maxIteration = 1000
+one AVG operation time elapsed : 2640ms
+[SimpleMPI:AVG] start a new request at time 2071.86 count = 806 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2074.38 count = 807 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2076.96 count = 808 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2079.51 count = 809 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2082.06 count = 810 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2084.64 count = 811 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2087.19 count = 812 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2089.77 count = 813 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2092.35 count = 814 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2094.9 count = 815 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2097.48 count = 816 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2100.03 count = 817 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2102.61 count = 818 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2105.13 count = 819 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2107.71 count = 820 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2110.26 count = 821 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2112.84 count = 822 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2115.39 count = 823 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2117.94 count = 824 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2120.52 count = 825 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2123.07 count = 826 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2125.65 count = 827 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2128.23 count = 828 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2130.78 count = 829 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2133.36 count = 830 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2135.91 count = 831 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2138.49 count = 832 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2141.01 count = 833 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2143.59 count = 834 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2146.14 count = 835 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2148.72 count = 836 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2151.27 count = 837 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2153.82 count = 838 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2156.4 count = 839 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2158.95 count = 840 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2161.53 count = 841 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2164.11 count = 842 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2166.66 count = 843 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2169.24 count = 844 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2171.79 count = 845 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2174.37 count = 846 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2176.92 count = 847 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2179.5 count = 848 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2182.05 count = 849 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2184.63 count = 850 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2187.18 count = 851 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2189.73 count = 852 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2192.31 count = 853 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2194.86 count = 854 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2197.44 count = 855 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2199.99 count = 856 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2202.57 count = 857 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2205.12 count = 858 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2207.7 count = 859 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2210.25 count = 860 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2212.83 count = 861 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2215.38 count = 862 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2217.93 count = 863 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2220.51 count = 864 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2223.06 count = 865 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2225.64 count = 866 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2228.19 count = 867 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2230.77 count = 868 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2233.32 count = 869 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2235.9 count = 870 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2238.45 count = 871 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2241 count = 872 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2243.58 count = 873 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2246.13 count = 874 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2248.71 count = 875 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2251.29 count = 876 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2253.84 count = 877 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2256.42 count = 878 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2258.97 count = 879 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2261.55 count = 880 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2264.13 count = 881 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2266.68 count = 882 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2269.26 count = 883 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2271.84 count = 884 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2274.39 count = 885 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2276.97 count = 886 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2279.55 count = 887 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2282.1 count = 888 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2284.68 count = 889 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2287.23 count = 890 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2289.81 count = 891 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2292.39 count = 892 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2294.94 count = 893 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2297.52 count = 894 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2300.1 count = 895 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2302.65 count = 896 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2305.23 count = 897 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2307.81 count = 898 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2310.36 count = 899 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2312.94 count = 900 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2315.52 count = 901 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2318.07 count = 902 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2320.65 count = 903 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2323.23 count = 904 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2325.78 count = 905 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2328.36 count = 906 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2330.91 count = 907 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2333.49 count = 908 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2336.07 count = 909 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2338.62 count = 910 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2341.2 count = 911 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2343.78 count = 912 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2346.33 count = 913 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2348.91 count = 914 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2351.43 count = 915 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2354.01 count = 916 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2356.53 count = 917 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2359.11 count = 918 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2361.66 count = 919 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2364.21 count = 920 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2366.79 count = 921 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2369.37 count = 922 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2371.92 count = 923 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2374.5 count = 924 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2377.05 count = 925 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2379.63 count = 926 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2382.15 count = 927 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2384.73 count = 928 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2387.28 count = 929 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2389.86 count = 930 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2392.41 count = 931 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2394.96 count = 932 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2397.54 count = 933 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2400.09 count = 934 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2402.67 count = 935 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2405.22 count = 936 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2407.8 count = 937 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2410.35 count = 938 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2412.9 count = 939 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2415.48 count = 940 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2418.03 count = 941 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2420.61 count = 942 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2423.19 count = 943 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2425.74 count = 944 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2428.32 count = 945 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2430.87 count = 946 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2433.45 count = 947 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2435.97 count = 948 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2438.55 count = 949 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2441.1 count = 950 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2443.65 count = 951 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2446.23 count = 952 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2448.78 count = 953 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2451.36 count = 954 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2453.94 count = 955 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2456.49 count = 956 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2459.07 count = 957 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2461.62 count = 958 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2464.2 count = 959 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2466.72 count = 960 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2469.3 count = 961 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2471.85 count = 962 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2474.43 count = 963 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2476.98 count = 964 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2479.53 count = 965 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2482.11 count = 966 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2484.66 count = 967 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2487.24 count = 968 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2489.79 count = 969 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2492.37 count = 970 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2494.95 count = 971 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2497.5 count = 972 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2500.08 count = 973 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2502.63 count = 974 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2505.21 count = 975 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2507.73 count = 976 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2510.31 count = 977 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2512.89 count = 978 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2515.44 count = 979 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2518.02 count = 980 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2520.57 count = 981 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2523.15 count = 982 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2525.67 count = 983 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2528.25 count = 984 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2530.77 count = 985 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2533.32 count = 986 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2535.9 count = 987 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2538.45 count = 988 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2541.03 count = 989 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2543.61 count = 990 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2546.16 count = 991 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2548.74 count = 992 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2551.29 count = 993 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2553.87 count = 994 maxIteration = 1000
+one AVG operation time elapsed : 2520ms
+[SimpleMPI:AVG] start a new request at time 2556.39 count = 995 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2558.97 count = 996 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+[SimpleMPI:AVG] start a new request at time 2561.52 count = 997 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2564.1 count = 998 maxIteration = 1000
+one AVG operation time elapsed : 2580ms
+[SimpleMPI:AVG] start a new request at time 2566.68 count = 999 maxIteration = 1000
+one AVG operation time elapsed : 2550ms
+
+
+#################### SIMULATION END ####################
+
+

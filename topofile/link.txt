@@ -1,0 +1,2 @@
+forwarder0    con0  1Mbps   1   2ms 30
+forwarder0    pro0  1Mbps   1   2ms 30

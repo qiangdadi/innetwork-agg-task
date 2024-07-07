@@ -1,0 +1,23 @@
+def build(bld):
+    module = bld.create_ns3_module('innetwork-train', ['core', 'internet'])
+    module.source = [
+        'utils/utils.cc',
+        'utils/vectorop.cc',
+        'model/simple-MPI/parameter.cc',
+        'model/simple-MPI/simpleMPI.cc',
+        'model/aggregator.cc',
+        'model/consumer.cc',
+        'model/producer.cc'
+        ]
+
+    headers = bld(features='ns3header')
+    headers.module = 'innetwork-train'
+    headers.source = [
+        'utils/utils.h',
+        'utils/vectorop.h',
+        'model/simple-MPI/parameter.h',
+        'model/simple-MPI/simpleMPI.h',
+        'model/aggregator.h',
+        'model/consumer.h',
+        'model/producer.h'
+        ]

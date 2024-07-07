@@ -1,0 +1,44 @@
+[32mWaf: Entering directory `/home/hxq/ns-allinone-3.33/ns-3.33/build'[0m
+[32mWaf: Leaving directory `/home/hxq/ns-allinone-3.33/ns-3.33/build'[0m
+[32mBuild commands will be stored in build/compile_commands.json[0m
+[32m'build' finished successfully (1.012s)[0m
+
+
+#################### SIMULATION SET-UP ####################
+
+
+/home/hxq/quiche/
+[SimpleMPI:AVG] start a new request at time 4 count = 0 maxIteration = 1000
+one AVG operation time elapsed : 4080ms
+[SimpleMPI:AVG] start a new request at time 8.08 count = 1 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 8.68 count = 2 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 9.28 count = 3 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 9.88 count = 4 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 10.48 count = 5 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 11.08 count = 6 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 11.68 count = 7 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 12.28 count = 8 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 12.88 count = 9 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 13.48 count = 10 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 14.08 count = 11 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 14.68 count = 12 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 15.28 count = 13 maxIteration = 1000
+one AVG operation time elapsed : 600ms
+[SimpleMPI:AVG] start a new request at time 15.88 count = 14 maxIteration = 1000
+
+
+#################### SIMULATION END ####################
+
+
