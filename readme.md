@@ -14,7 +14,7 @@ copy testscript.ipynb into ns-3.37
 copy topofile into ns-3.37
 
 ## Usage
-After install, you can direct run the jupyter file directly.
+After install, you can run the jupyter file directly.
 
 ## Todo List
 - [X] install quic-ns3
